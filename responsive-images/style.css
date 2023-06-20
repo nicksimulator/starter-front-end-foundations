@@ -1,7 +1,3 @@
-main img {
-  width: 100%;
-}
-
 main {
   padding: 20px 0;
 }
@@ -24,10 +20,11 @@ h3 {
   border-bottom: 1px solid lightgray;
 }
 
-/* Groups & Items */
-img {
+.item img {
   width: 100%;
 }
+
+/* Groups & Items */
 
 .group {
   display: flex;
