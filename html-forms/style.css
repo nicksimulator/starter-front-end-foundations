@@ -1,7 +1,9 @@
-body {
-  padding: 10px;
+p {
+  font-size: 14px;
 }
 
-input {
-  margin: 5px;
+@media all and (min-width: 800px) {
+  p {
+    font-size: 24px;
+  }
 }
