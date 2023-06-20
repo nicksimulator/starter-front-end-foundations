@@ -21,6 +21,9 @@ h3 {
 }
 
 /* Groups & Items */
+img {
+  width: 100%;
+}
 
 .group {
   display: flex;
